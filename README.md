@@ -24,5 +24,5 @@ I made it because this is one of my First Pcbs! I wanted something easy and peop
 ![3d Render 3](Attachments/Screenshot%202026-04-12%20205305.png)
 
 ## BOM
-![BOM Part 1](Attachments/Screenshot%202026-04-12%20213224.png)
-![BOM Part 2](Attachments/Screenshot%202026-04-12%20213350.png)
+![BOM Part 1](Screenshot%202026-04-12%20214720.png)
+![BOM Part 2](Attachments/Screenshot%202026-04-12%20213224.png)
