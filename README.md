@@ -1,4 +1,5 @@
 # Chiikawa LED chaser PCD
+You can find my journals here: https://stasis.hackclub.com/dashboard/projects/cmnpnfhm200dn01pehbkvc9ek
 ---
 ## Description
 
