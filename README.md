@@ -25,4 +25,4 @@ I made it because this is one of my First Pcbs! I wanted something easy and peop
 
 ## BOM
 ![BOM Part 1](Screenshot%202026-04-12%20214720.png)
-![BOM Part 2](Attachments/Screenshot%202026-04-12%20213224.png)
+
