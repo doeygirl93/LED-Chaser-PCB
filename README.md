@@ -13,13 +13,16 @@ I made it because this is one of my First Pcbs! I wanted something easy and peop
 ## Pictures
 
 #### Pcb
-![[Pasted image 20260412204113.png]]
+![Pcb Layout](Attachments/Screenshot%202026-04-12%20204050.png)
 
 ### Schematic
-![[Pasted image 20260412204236.png]]
+![Schematic](Attachments/Screenshot%202026-04-12%20204204.png)
 
 ## 3d Render 
-![[Pasted image 20260412205233.png]]![[Pasted image 20260412205248.png]]![[Pasted image 20260412205310.png]]
+![3d Render 1](Attachments/Screenshot%202026-04-12%20205221.png)
+![3d Render 2](Attachments/Screenshot%202026-04-12%20205244.png)
+![3d Render 3](Attachments/Screenshot%202026-04-12%20205305.png)
 
 ## BOM
-![[Pasted image 20260412213245.png]]![[Pasted image 20260412213358.png]]
+![BOM Part 1](Attachments/Screenshot%202026-04-12%20213224.png)
+![BOM Part 2](Attachments/Screenshot%202026-04-12%20213350.png)
